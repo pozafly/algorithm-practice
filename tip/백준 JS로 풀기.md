@@ -6,6 +6,8 @@ https://www.acmicpc.net/problem/4344 이쪽 백준 문제로 예시를 든다.
 
 `input.txt` 라는 파일이 백준에서 제공이 되며, 이는 Node.js의 `fs` 패키지를 통해 파일을 import(require) 해와야 한다.
 
+> 📌 참고, 백준에 실제로 낼 때는 `fs.readFileSync('/dev/stdin').toString()` 으로 사용해 내야 한다.
+
 ```js
 /*
   https://www.acmicpc.net/problem/4344

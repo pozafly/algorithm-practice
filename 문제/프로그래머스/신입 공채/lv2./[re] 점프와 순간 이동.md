@@ -46,3 +46,5 @@ function solution(n) {
 
 - 짝수일 경우는 단지 2로 나누어 주는 것만한다.
 - 홀수일 경우에만 에너지를 소모하기 때문이다.
+
+[참고](https://school.programmers.co.kr/questions/51643)
